@@ -25,11 +25,11 @@ This project is an example of Clean Enterprise Architecture for a .NET Core REST
 - CQRS 
 - Unit of Work
 - Repository and Generic Repository
+- Database Migrations (Code-First)
 - Dynamic Data Provider (MS-SQL or PostgreSQL)
 - Logging
 - Caching
-- Searching (ES)
-- Database Migrations (Code-First)
+- Searching with ElasticSearch
 
 ## Run
 
