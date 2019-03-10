@@ -28,7 +28,7 @@ This project is an example of Clean Enterprise Architecture for a .NET Core REST
 - Dynamic Data Provider (MS-SQL or PostgreSQL)
 - Logging
 - Caching
-- Searcing
+- Searching (ES)
 - Database Migrations (Code-First)
 
 ## Run
