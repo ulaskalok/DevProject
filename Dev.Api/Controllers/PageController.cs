@@ -25,7 +25,7 @@ namespace Dev.Api.Controllers
         }
 
         //[Authorize(Roles = "User, Admin")]
-        [HttpGet]
+        [HttpPost]
         public async Task<ActionResult<int>> Create([FromForm] CreatePageCommand command)
         {
             var res = await _mediator.Send(command);

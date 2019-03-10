@@ -7,7 +7,7 @@ namespace Dev.Application.Commands.Page
         public CreatePageCommandValidatior()
         {
             RuleFor(x => x.PageName).NotEmpty();
-            RuleFor(x => x.PageDesc).MaximumLength(10);
+            RuleFor(x => x.PageDesc).MaximumLength(100);
         }
     }
 }
