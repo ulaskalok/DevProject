@@ -21,7 +21,6 @@ This project is an example of Clean Enterprise Architecture for a .NET Core REST
 ## Practices:
 
 - SOLID and Clean Code
-- DDD (Domain-Driven Design)
 - CQRS 
 - Unit of Work
 - Repository and Generic Repository
